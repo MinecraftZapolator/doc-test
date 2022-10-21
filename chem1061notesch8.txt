@@ -1,0 +1,50 @@
+Chapter 9: 
+chem bonding notes:
+ - Ionic bond = metals and non-metals bonding
+ - Covelant bond = non-metals and non-metals bonding
+ - Metalic bond = metals and metals bonding
+ 
+In the case of an Ionic bond, valence electrons from the metal ion will transfer to the non-metal ion.
+ - lattice energy = LE = abs(net energy of rxn)
+ - creating an Ionic bond has a net negative Lattice Energy, is exothermic
+ - breaking an Ionic bond has a net positive Lattice Energy, is endothermic
+Born-Haber Cycle (Hess' Law)
+ - Some helpful tips:
+    - write out each step of hess' law using coloured markers (this will help to keep each step in your mind)
+	- short digression:
+	 - the born-haber cycle is expressed as follows in common reactions: 
+	    1. Reactant bonds are broken (+BE)
+		2. Reactant atoms reform (-BE)
+		3. Always remember: hess' law requires keeping your mind on stoichiometry, DO NOT FORGET THE COEFFICIENTS
+		4. Hrxn = H bonds broken + H bonds formed
+		5. There may be more steps if atoms within the final compound first have to form gaseous ions.
+Coulomb's Law
+ - Electrostatic energy = (charge1 * charge2)/distance
+ - size: smaller atoms have larger lattice energy
+ - larger charged atoms have larger lattice energy
+Properties of Ionic Compounds:
+ - Physical: hard, rigid, and brittle (this is due to electro-static repulsion on ionic pairs)
+ - Thermal: high melting and boiling points, vaporize in pairs
+ - Electrical: solids do not conduct but liquids and solutions do 
+ 
+In the case of a Covalent bond:
+  - there is a balance wherin attraction and repulsion between electrons and atomic nuclei are at balance
+***The only important thing to remember - covalent bonds share atoms, ionic bonds transfer atoms***
+  - types of covalent bonds:
+   - single bond = lone bond
+  - read more about potential energy well
+  - Covalent radius = distance between the nuclei in a covelant bond /2
+  - Bond length parallels atomic size, larger atoms will have larger covelant radius
+  - Stronger bonds have larger bond energy, weaker bonds have lower bond energy
+     - this is due to the trends in energy wells
+  - Variation within a group:
+	 - the trend in single bond length parallels the trend in atomic size, opposide to bond energy
+  - Variation within a period:
+     - trend in bond length parallels trend in atomic size, opposite to trend in bond energy
+The sum of the enthalpies to break bonds and to make bonds are equal to the change in enthalpy over the reaction
+
+Note on lewis model: lewis model shows the number of valence electrons as a series of dots around an atom
+ - a transfer of electrons in a bond is represented through the a shared outer layer (dots)
+
+ 
+ 
